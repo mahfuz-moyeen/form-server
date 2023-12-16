@@ -1,0 +1,145 @@
+[
+    {
+      "name": "Manufacturing",
+      "values": [
+        "Construction materials",
+        "Electronics and Optics",
+        {
+          "subName": "Food and Beverage",
+          "subValues": [
+            "Bakery & confectionery products",
+            "Beverages",
+            "Fish & fish products",
+            "Meat & meat products",
+            "Milk & dairy products",
+            "Other",
+            "Sweets & snack food"
+          ]
+        },
+        {
+          "subName": "Furniture",
+          "subValues": [
+            "Bathroom/sauna",
+            "Bedroom",
+            "Children’s room",
+            "Kitchen",
+            "Living room",
+            "Office",
+            "Other (Furniture)",
+            "Outdoor",
+            "Project furniture"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Machinery",
+      "values": [
+        "Machinery components",
+        "Machinery equipment/tools",
+        "Manufacture of machinery",
+        {
+          "subName": "Maritime",
+          "subValues": [
+            "Aluminium and steel workboats",
+            "Boat/Yacht building",
+            "Ship repair and conversion"
+          ]
+        },
+        "Metal structures",
+        "Other (Machinery)",
+        "Repair and maintenance service"
+      ]
+    },
+    {
+      "name": "Metalworking",
+      "values": [
+        "Construction of metal structures",
+        "Houses and buildings",
+        "Metal products",
+        {
+          "subName": "Metal works",
+          "subValues": [
+            "CNC-machining",
+            "Forgings, Fasteners",
+            "Gas, Plasma, Laser cutting",
+            "MIG, TIG, Aluminum welding"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Plastic and Rubber",
+      "values": [
+        "Packaging",
+        "Plastic goods",
+        {
+          "subName": "Plastic processing technology",
+          "subValues": [
+            "Blowing",
+            "Moulding",
+            "Plastics welding and processing"
+          ]
+        },
+        "Plastic profiles"
+      ]
+    },
+    {
+      "name": "Printing",
+      "values": [
+        "Advertising",
+        "Book/Periodicals printing",
+        "Labelling and packaging printing"
+      ]
+    },
+    {
+      "name": "Textile and Clothing",
+      "values": [
+        "Clothing",
+        "Textile"
+      ]
+    },
+    {
+      "name": "Wood",
+      "values": [
+        "Other (Wood)",
+        "Wooden building materials",
+        "Wooden houses"
+      ]
+    },
+    {
+      "name": "Other",
+      "values": [
+        "Creative industries",
+        "Energy technology",
+        "Environment"
+      ]
+    },
+    {
+      "name": "Service",
+      "values": [
+        "Business services",
+        "Engineering",
+        {
+          "subName": "Information Technology and Telecommunications",
+          "subValues": [
+            "Data processing, Web portals, E-marketing",
+            "Programming, Consultancy",
+            "Software, Hardware",
+            "Telecommunications"
+          ]
+        },
+        "Tourism",
+        "Translation services",
+        {
+          "subName": "Transport and Logistics",
+          "subValues": [
+            "Air",
+            "Rail",
+            "Road",
+            "Water"
+          ]
+        }
+      ]
+    }
+  ]
